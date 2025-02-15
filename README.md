@@ -10,7 +10,6 @@ Mata Kuliah : Praktikum Jaringan Komputer
 Carilah jumlah subnet, jumlah host per subnet, blok subnet, alamat host dan broadcast yang valid dari network address sebagai berikut:
 
 ### 1. Network Address Kelas C: 192.168.30.0/29
-```
 |    Subnet      |  Host Pertama  |  Host Terakhir  |    Broadcast    |
 | -------------- | -------------- | --------------- | --------------- |
 |  192.168.30.0  |  192.168.30.1  |  192.168.30.6   |  192.168.30.7   |
@@ -18,7 +17,6 @@ Carilah jumlah subnet, jumlah host per subnet, blok subnet, alamat host dan broa
 |      ...       |      ...       |       ...       |       ...       |
 | 192.168.30.240 | 192.168.30.241 | 192.168.30.246  | 192.168.30.247  |
 | 192.168.30.248 | 192.168.30.249 | 192.168.30.254  | 192.168.30.255  |
-```
 
 ### 2. Network Address Kelas B: 172.16.0.0/20
 ```
